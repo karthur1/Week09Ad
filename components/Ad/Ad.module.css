@@ -1,0 +1,6 @@
+.container{
+    display: grid;
+    background-color: rgb(195, 68, 68);
+    padding: 5em;
+    border-radius: 5em;
+}
